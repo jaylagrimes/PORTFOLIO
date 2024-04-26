@@ -1,0 +1,19 @@
+body {
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(226, 43, 202);
+}
+
+#main-container {
+    background-color: rgb(226, 43, 202);
+    width: 1024px;
+    height: 3000px;
+    border: solid 1px black;
+}
+
+
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
